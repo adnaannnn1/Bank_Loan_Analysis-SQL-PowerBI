@@ -101,7 +101,7 @@ Interactive Power BI dashboards:
 - **#1 Purpose**: Debt Consolidation (majority of loans)
 - **#2 Purpose**: Credit Card refinancing → opportunity for balance transfer products
 - **Consistent demand**: 2.4K–2.8K monthly applications
-- Interest rate average: **12.0%**, varies by loan grade (A–E)
+- Interest rate average: **12.0%**, varies by loan grade(A–E)
 
 ## 💼 Business Recommendations
 
